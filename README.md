@@ -17,6 +17,10 @@ Dataset Details
 
 Source: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
+Visualization Details
+
+Source: https://public.tableau.com/views/AmazonElectronicsSalesAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Data Cleaning Process (Python)
 
 --> Removed duplicate product IDs.
