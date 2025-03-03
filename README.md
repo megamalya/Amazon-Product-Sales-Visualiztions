@@ -5,13 +5,13 @@ This project analyzes the Amazon Electronics Products Sales Dataset to gain insi
 
 Objectives
 
---> Analyze sales performance and product popularity.
+> Analyze sales performance and product popularity.
 
---> Evaluate pricing strategy and discount impact.
+> Evaluate pricing strategy and discount impact.
 
---> Measure customer satisfaction through ratings and reviews.
+> Measure customer satisfaction through ratings and reviews.
 
---> Identify high-performing and underperforming products.
+> Identify high-performing and underperforming products.
 
 Dataset Details
 
@@ -33,27 +33,27 @@ Data Cleaning Process (Python)
 
 Sales Performance Analysis:
 
-#Top 10 Most Reviewed Products
+* Top 10 Most Reviewed Products
 
-#Top 5 Highest Rated Products
+* Top 5 Highest Rated Products
 
 Pricing Strategy Analysis:
 
-#Average Price by Category
+* Average Price by Category
 
-#Discount Percentage Impact on Reviews
+* Discount Percentage Impact on Reviews
 
 Customer Satisfaction Metrics:
 
-#Average Rating by Category
+* Average Rating by Category
 
-#High Review, Low Rating Products
+* High Review, Low Rating Products
 
 Category-Level Insights:
 
-#Total Reviews by Category
+* Total Reviews by Category
 
-#Value-for-Money Categories (High Rating & Low Price)
+* Value-for-Money Categories (High Rating & Low Price)
 
 Dashboard Layout (Tableau)
 
